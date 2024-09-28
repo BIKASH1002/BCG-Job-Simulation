@@ -22,6 +22,8 @@ In the first task, it was required to draft a professional email to the Associat
 
 - Requested the necessary data from PowerCo, including customer information, pricing data, feedback and competitor data.
 
+[To View Task 1 mail](https://github.com/BIKASH1002/BCG-Job-Simulation/tree/b004e90cb7ee80c2c010266378868b0eb08fea15/Task%201)
+
 # Task 2: Exploratory Data Analysis (EDA)
 
 **Objective**
