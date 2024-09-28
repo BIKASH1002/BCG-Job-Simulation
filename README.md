@@ -54,7 +54,7 @@ The second task focused on performing an in-depth Exploratory Data Analysis (EDA
 
 - Churn distribution across various customer categories.
  
-- Impact of sales channels, products, and contract durations on churn rates.
+- Impact of sales channels, products and contract durations on churn rates.
 
 # Task 3: Feature Engineering
 
