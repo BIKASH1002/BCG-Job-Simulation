@@ -22,7 +22,7 @@ In the first task, it was required to draft a professional email to the Associat
 
 - Requested the necessary data from PowerCo, including customer information, pricing data, feedback and competitor data.
 
-[To View Task 1 mail](https://github.com/BIKASH1002/BCG-Job-Simulation/tree/b004e90cb7ee80c2c010266378868b0eb08fea15/Task%201)
+[View Task 1 mail](https://github.com/BIKASH1002/BCG-Job-Simulation/blob/21a25ca488133cd7f86c74b38082fe16c7f4551c/Task%201/Mail%20to%20AD.pdf)
 
 # Task 2: Exploratory Data Analysis (EDA)
 
@@ -39,6 +39,8 @@ The second task focused on performing an in-depth Exploratory Data Analysis (EDA
 - Detected outliers that could potentially skew the analysis and require treatment in later stages.
 
 - Visualized the distribution of various factors such as sales channels, number of products, and customer tenure to identify trends affecting churn.
+
+[View Task 2 code](https://github.com/BIKASH1002/BCG-Job-Simulation/blob/21a25ca488133cd7f86c74b38082fe16c7f4551c/Task%202/Task%202.ipynb)
   
 **Visualizations**
 
@@ -66,6 +68,8 @@ In the third task, it was required to engineer new features to improve the predi
 
 The feature-engineered dataset consisted of 52 columns with transformed variables ready for model training.
 
+[View Task 3 code](https://github.com/BIKASH1002/BCG-Job-Simulation/blob/21a25ca488133cd7f86c74b38082fe16c7f4551c/Task%203/Task%203.ipynb)
+
 # Task 4: Modeling, Evaluation and Executive Summary
 
 **Objective**
@@ -83,6 +87,8 @@ The final task involved building a predictive model to forecast customer churn a
   - Precision for predicting non-churn customers was 90%, while churn prediction had a lower precision due to class imbalance.
 
   - Created a confusion matrix and feature importance plots to assess the model’s performance.
+ 
+[View Task 4 code](https://github.com/BIKASH1002/BCG-Job-Simulation/blob/21a25ca488133cd7f86c74b38082fe16c7f4551c/Task%204/Task%204.ipynb) 
 
 **Executive Summary**
 
@@ -91,6 +97,8 @@ The final task involved building a predictive model to forecast customer churn a
 - Key drivers for churn included yearly consumption, forecasted consumption and net margin.
   
 - Implementing a 20% discount strategy could be effective for high-value customers with a high likelihood of churn.
+
+[View Exceutive Summary](https://github.com/BIKASH1002/BCG-Job-Simulation/blob/21a25ca488133cd7f86c74b38082fe16c7f4551c/Task%204/Executive%20Summary.pdf)
 
 # Conclusion
 
