@@ -2,9 +2,17 @@
 
 # Data Science Job Simulation - Boston Consulting Group (BCG) via Forage
 
+<div align = "justify">
+
 # Overview
 
 This repository contains my submission for the Data Science Job Simulation program conducted by Boston Consulting Group (BCG) through Forage. The job simulation focused on analyzing and addressing customer churn for an energy company (PowerCo). Over the course of four tasks, the performed key data science steps include writing professional communication, conducting exploratory data analysis, feature engineering, model development and reporting the results. Each task is outlined below with relevant details.
+
+# Setup
+
+- **Visual Studio:** for development
+
+- **Git Bash:** for updating repository
 
 # Task 1: Writing a Mail to Associate Director
 
@@ -103,3 +111,9 @@ The final task involved building a predictive model to forecast customer churn a
 # Conclusion
 
 This project provided a comprehensive experience of a real-world data science workflow from communicating with stakeholders to building predictive models. The insights derived from the data, along with the predictive model, could help PowerCo reduce customer churn and focus on retention strategies for high-value customers.
+
+</div>
+
+# Credits
+
+BCG, Forage
